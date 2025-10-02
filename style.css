@@ -1,0 +1,33 @@
+
+body{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+
+nav{
+    background-color: #ff0000;
+    
+}
+
+.nav ul li{
+  list-style: none;
+}
+
+.nav ul li a{
+   
+    color: white;
+    text-decoration: none;
+   
+}
+.nav-list{
+   display: flex;
+   gap: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+}
